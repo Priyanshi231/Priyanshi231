@@ -29,7 +29,7 @@ I'm a developer and designer driven by a passion for solving problems at the int
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">ManoRaag - AI Music Recommender</h3>
+      <h3 align="center">EmoTune - AI Emotion Music Recommender</h3>
       <div align="center">
         <p>
           <br>
