@@ -8,22 +8,6 @@ I'm a developer and designer driven by a passion for solving problems at the int
 
 ---
 
-### 📊 My GitHub Stats
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Priyanshi231&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Priyanshi's GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
----
-
 ### 🚀 Featured Projects
 
 <table>
