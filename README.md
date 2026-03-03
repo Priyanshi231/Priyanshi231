@@ -2,7 +2,12 @@
 
 <div align="center">
 
-I'm a developer and designer driven by a passion for solving problems at the intersection of art and logic. For me, coding is a creative medium for building beautiful, user-centric experiences. Whether it's designing an intuitive UI, building an interactive front-end with React, or engineering a smart back-end with Python, my goal is always to create software that is both powerful and a pleasure to use.
+Full-Stack Developer | Frontend Enthusiast | B.Tech CSE  
+
+I build structured, scalable, and user-focused web applications.  
+My work spans responsive frontend interfaces, backend API development, and deployment workflows using modern tools.
+
+I enjoy solving real-world problems through clean architecture, maintainable code, and practical implementations.
 
 </div>
 
@@ -13,32 +18,30 @@ I'm a developer and designer driven by a passion for solving problems at the int
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">EmoTune - AI Emotion Music Recommender</h3>
+      <h3 align="center">Flask + MongoDB + Kubernetes Backend</h3>
       <div align="center">
         <p>
-          <br>
-          An intelligent web app that uses facial emotion recognition to analyze your mood and curate a personalized music playlist just for you.
+          Backend application built with Flask and MongoDB, containerized and deployed using Kubernetes to understand scalable deployment architecture.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">FinTrack - Expense Tracker</h3>
+      <h3 align="center">Expense Tracker (Full-Stack)</h3>
       <div align="center">
         <p>
-          <br>
-          A professional expense tracking application to help users manage their finances, categorize spending, and visualize their budget.
+          A full-stack expense tracking system implementing CRUD operations, REST APIs, and structured backend logic.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
         </p>
       </div>
     </td>
@@ -47,36 +50,67 @@ I'm a developer and designer driven by a passion for solving problems at the int
 
 ---
 
-### 🛠️ My Tech Stack
+### 💻 Additional Projects
+
+• Spotify UI Clone – Frontend replication focusing on layout and styling  
+• Simon Says Game – Interactive JavaScript browser game  
+• Travencia – Travel-themed responsive web project  
+• Backend CRUD Operations – Practice project implementing REST APIs  
+• Data Structures & Algorithms – Problem solving in C++  
+
+---
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/> </a>
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
+
 </p>
 
 ---
 
-### 💬 Let's Connect!
+### 📌 Core Strengths
+
+• Strong foundation in Data Structures & Algorithms  
+• REST API design and backend development  
+• Basic understanding of containerization & Kubernetes deployment  
+• Responsive frontend development  
+• Clean Git workflow and version control  
+
+---
+
+### 💬 Let’s Connect
 
 <div align="center">
-  
-Feel free to explore my repositories or reach out for collaboration. I'm always open to new ideas and opportunities!
+
+Open to internships and entry-level opportunities in Frontend / Full-Stack Development.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshi-jain-4a91b1271/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priyanshi Jain LinkedIn" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:priyanshijain1666@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
