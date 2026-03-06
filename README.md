@@ -1,19 +1,16 @@
-<h1 align="center">Hi, I’m Priyanshi Jain</h1>
+<h1 align="center">Hi, I'm Priyanshi Jain</h1>
+<h3 align="center">Full-Stack Developer | Frontend Enthusiast | B.Tech CSIT</h3>
 
 <div align="center">
 
-Full-Stack Developer | Frontend Enthusiast | B.Tech CSE  
-
-I build structured, scalable, and user-focused web applications.  
-My work spans responsive frontend interfaces, backend API development, and deployment workflows using modern tools.
-
-I enjoy solving real-world problems through clean architecture, maintainable code, and practical implementations.
+I build **scalable web applications and backend systems** using modern development tools and frameworks.  
+My focus is on creating **clean architecture, efficient APIs, and responsive user interfaces** while solving real-world problems through practical implementations.
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -21,7 +18,7 @@ I enjoy solving real-world problems through clean architecture, maintainable cod
       <h3 align="center">Flask + MongoDB + Kubernetes Backend</h3>
       <div align="center">
         <p>
-          Backend application built with Flask and MongoDB, containerized and deployed using Kubernetes to understand scalable deployment architecture.
+          Backend service developed using Flask and MongoDB, containerized with Docker and deployed on Kubernetes to explore scalable cloud-native architecture.
         </p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -35,7 +32,7 @@ I enjoy solving real-world problems through clean architecture, maintainable cod
       <h3 align="center">Expense Tracker (Full-Stack)</h3>
       <div align="center">
         <p>
-          A full-stack expense tracking system implementing CRUD operations, REST APIs, and structured backend logic.
+          A full-stack web application for tracking and managing expenses with structured backend logic, REST APIs, and database integration.
         </p>
         <p>
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -50,22 +47,19 @@ I enjoy solving real-world problems through clean architecture, maintainable cod
 
 ---
 
-### 💻 Additional Projects
+## Additional Projects
 
-• Spotify UI Clone – Frontend replication focusing on layout and styling  
-• Simon Says Game – Interactive JavaScript browser game  
-• Travencia – Travel-themed responsive web project  
-• Backend CRUD Operations – Practice project implementing REST APIs  
-• Data Structures & Algorithms – Problem solving in C++  
-
----
+• **Spotify UI Clone** – Frontend interface replication focusing on layout and styling  
+• **Simon Says Game** – Interactive browser game built with JavaScript  
+• **Travencia** – Responsive travel-themed website  
+• **Backend CRUD APIs** – REST API practice project with database integration  
+• **Data Structures & Algorithms** – Problem solving and algorithm implementation in C++
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
-
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -88,30 +82,26 @@ I enjoy solving real-world problems through clean architecture, maintainable cod
 
 ---
 
-### 📌 Core Strengths
+## GitHub Streak
 
-• Strong foundation in Data Structures & Algorithms  
-• REST API design and backend development  
-• Basic understanding of containerization & Kubernetes deployment  
-• Responsive frontend development  
-• Clean Git workflow and version control  
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi231&theme=tokyonight"/>
+
+</p>
 
 ---
 
-### 💬 Let’s Connect
-
-<div align="center">
-
-Open to internships and entry-level opportunities in Frontend / Full-Stack Development.
+## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshi-jain-4a91b1271/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:priyanshijain1666@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
-</div>
+<a href="https://www.linkedin.com/in/priyanshi-jain-4a91b1271/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:priyanshijain1666@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
