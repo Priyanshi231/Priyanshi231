@@ -82,15 +82,6 @@ My focus is on creating **clean architecture, efficient APIs, and responsive use
 
 ---
 
-## GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi231&theme=tokyonight"/>
-
-</p>
-
----
 
 ## Connect With Me
 
