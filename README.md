@@ -10,6 +10,14 @@ My focus is on creating **clean architecture, efficient APIs, and responsive use
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshi231/Priyanshi231/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshi231/Priyanshi231/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Priyanshi231/Priyanshi231/output/github-snake-light.svg">
+</picture>
+
+---
+
 ## Featured Projects
 
 <table>
