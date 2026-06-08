@@ -1,4 +1,4 @@
-<p align="right">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Priyanshi231&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <h1 align="center">Hi, I'm Priyanshi Jain</h1>
