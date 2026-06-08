@@ -1,5 +1,8 @@
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Priyanshi231&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <h1 align="center">Hi, I'm Priyanshi Jain</h1>
-<h3 align="center">Full-Stack Developer | Frontend Enthusiast | B.Tech CSIT</h3>
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | B.Tech CSIT</h3>
 
 <div align="center">
 
@@ -7,7 +10,6 @@ I build **scalable web applications and backend systems** using modern developme
 My focus is on creating **clean architecture, efficient APIs, and responsive user interfaces** while solving real-world problems through practical implementations.
 
 </div>
-
 ---
 
 <picture>
