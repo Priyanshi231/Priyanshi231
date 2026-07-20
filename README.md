@@ -61,7 +61,7 @@ My focus is on creating **clean architecture, efficient APIs, and responsive use
 
 • **Spotify UI Clone** – Frontend interface replication focusing on layout and styling  
 • **Simon Says Game** – Interactive browser game built with JavaScript  
-• **Travencia** – Responsive travel-themed website  
+• **StaySphere** – Responsive travel-themed website  
 • **Backend CRUD APIs** – REST API practice project with database integration  
 • **Data Structures & Algorithms** – Problem solving and algorithm implementation in C++
 
