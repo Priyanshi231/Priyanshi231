@@ -5,7 +5,7 @@
 <h3>Full-Stack Developer | AI/ML Enthusiast | B.Tech CSIT</h3>
 
 <div>
-I build **scalable web applications and backend systems** using modern development tools and frameworks.  
+I build **sscalable web applications, AI-powered platforms, and backend systems** using modern development tools and frameworks.  
 My focus is on creating **clean architecture, efficient APIs, and responsive user interfaces** while solving real-world problems through practical implementations.
 
 </div>
@@ -25,30 +25,30 @@ My focus is on creating **clean architecture, efficient APIs, and responsive use
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Flask + MongoDB + Kubernetes Backend</h3>
+      <h3 align="center">DevSync AI</h3>
       <div align="center">
         <p>
-          Backend service developed using Flask and MongoDB, containerized with Docker and deployed on Kubernetes to explore scalable cloud-native architecture.
+          AI-powered collaborative development platform built using the MERN Stack, featuring real-time collaboration, project management, authentication, and Gemini AI integration to enhance developer productivity.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Expense Tracker (Full-Stack)</h3>
+      <h3 align="center">JWT Authentication System</h3>
       <div align="center">
         <p>
-          A full-stack web application for tracking and managing expenses with structured backend logic, REST APIs, and database integration.
+          Production-ready authentication system implementing JWT Authentication, Refresh Token Rotation, Session Management, Protected Routes, and secure Logout from All Devices.
         </p>
         <p>
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
           <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+          <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
         </p>
       </div>
     </td>
@@ -59,39 +59,99 @@ My focus is on creating **clean architecture, efficient APIs, and responsive use
 
 ## Additional Projects
 
-• **Spotify UI Clone** – Frontend interface replication focusing on layout and styling  
-• **Simon Says Game** – Interactive browser game built with JavaScript  
-• **StaySphere** – Responsive travel-themed website  
-• **Backend CRUD APIs** – REST API practice project with database integration  
-• **Data Structures & Algorithms** – Problem solving and algorithm implementation in C++
+<ul>
+  <li><b>StaySphere</b> – Full-stack travel platform featuring authentication, responsive UI, and trip planning functionality.</li>
+  <li><b>AI Emotion Music Recommender</b> – AI-based application that recommends music based on detected user emotions.</li>
+  <li><b>Simon Says Game</b> – Interactive browser game built with JavaScript.</li>
+  <li><b>DSA Practice</b> – Problem solving and algorithm implementation in C++.</li>
+</ul>
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
+<table>
+<tr>
+<td valign="top" width="25%">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+### Languages
+- JavaScript (ES6+)
+- Python
+- C++
+- SQL
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+</td>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<td valign="top" width="25%">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
 
-</p>
+</td>
+
+<td valign="top" width="25%">
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+</td>
+
+<td valign="top" width="25%">
+
+### Database
+- MongoDB
+- MySQL
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### DevOps
+- Docker
+- Kubernetes
+
+</td>
+
+<td valign="top">
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+</td>
+
+<td valign="top">
+
+### Currently Learning
+- Redis
+- System Design
+- AI Integrations
+
+</td>
+
+<td valign="top">
+
+### Core Skills
+- Full-Stack Development
+- Backend Development
+- Problem Solving
+- API Development
+
+</td>
+</tr>
+</table>
 
 ---
-
 
 ## Connect With Me
 
@@ -103,6 +163,10 @@ My focus is on creating **clean architecture, efficient APIs, and responsive use
 
 <a href="mailto:priyanshijain1666@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://priyanshijain2026.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
